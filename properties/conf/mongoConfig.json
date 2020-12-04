@@ -1,0 +1,10 @@
+{
+    "mongoHosts": "mongodb:27017",
+    "dbName": "test-db",
+    "mongoClientOptions": {
+        "useUnifiedTopology": true,
+        "loggerLevel": "info",
+        "poolSize": 10,
+        "appname": "test-app"
+    }
+}
